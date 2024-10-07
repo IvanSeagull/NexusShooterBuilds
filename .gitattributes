@@ -1,0 +1,2 @@
+* !text !filter !merge !diff
+v5.0/* filter=lfs diff=lfs merge=lfs -text
